@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrafficFlowOptimizer/static/css/main.e2cccd1b.css",
+    "main.js": "/TrafficFlowOptimizer/static/js/main.e9d63574.js",
+    "index.html": "/TrafficFlowOptimizer/index.html",
+    "main.e2cccd1b.css.map": "/TrafficFlowOptimizer/static/css/main.e2cccd1b.css.map",
+    "main.e9d63574.js.map": "/TrafficFlowOptimizer/static/js/main.e9d63574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cccd1b.css",
+    "static/js/main.e9d63574.js"
+  ]
+}
